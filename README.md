@@ -1,17 +1,17 @@
-# cool_todo_app
+# To Do
 
-A new Flutter project.
+A simple and colorful task manager built with Flutter.
 
-## Getting Started
+## Features
+- Add tasks with categories
+- Track progress with a completion ring
+- Filter tasks: All, Active, Completed
+- Light and dark mode
 
-This project is a starting point for a Flutter application.
+## Built with
+- Flutter
+- Dart
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Author
+Adoniyas Mita
+[LinkedIn](https://www.linkedin.com/in/adoniyas-mita-70237a3b1) | [Portfolio](#)
